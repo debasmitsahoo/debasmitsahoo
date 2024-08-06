@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debasmitsahoo&show_icons=true&locale=en" alt="debasmitsahoo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debasmitsahoo&" alt="debasmitsahoo" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=debasmitsahoo&hide_border=true)](https://git.io/streak-stats)
