@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debasmitsahoo&show_icons=true&locale=en&layout=compact" alt="debasmitsahoo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debasmitsahoo&show_icons=true&locale=en" alt="debasmitsahoo" /></p>
+[![Debasmit's GitHub stats](https://github-readme-stats.vercel.app/api?username=debasmitsahoo)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=debasmitsahoo)](https://git.io/streak-stats)
