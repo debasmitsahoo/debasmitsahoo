@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on Front-end projects using React, Vue.js, and Three.js<br>🌱 I’m currently learning Backend development<br>💬 Ask me about  React,Vue.js,Three.js<br>⚡ Fun fact I’m a tech enthusiast who also loves organizing events and bringing people together, whether it's through coding or college fests!
+👯 I’m looking to collaborate on Front-end projects using React, Vue.js, and Three.js<br>🌱 I’m currently learning DevOps <br>💬 Ask me about  React,Vue.js,Three.js<br>⚡ Fun fact I’m a tech enthusiast who also loves organizing events and bringing people together, whether it's through coding or college fests!
 
 
 ## 🌐 Socials:
