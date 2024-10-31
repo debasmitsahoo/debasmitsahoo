@@ -23,5 +23,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=debasmitsahoo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![Debasmit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=debasmitsahoo&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debasmitsahoo&label=Profile%20views&color=0e75b6&style=flat" alt="debasmitsahoo" /> </p>
 
