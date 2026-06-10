@@ -1,82 +1,114 @@
 # Debasmit Sahoo
 
-**Full Stack Developer** focused on building scalable web applications, performant user interfaces, and production-ready systems.
+**Product Engineering Intern | Full Stack, Cloud & IoT Systems**
 
-📍 Bhubaneswar, India  
-🌐 Portfolio → https://debasmit.com  
-
----
-
-## What I Do
-
-I work across the full stack — from crafting fast, accessible frontends to designing backend systems that handle authentication, data, and real-world workflows.
-
-My work focuses on:
-- shipping real products, not demos
-- clean architecture and maintainable code
-- performance, SEO, and deployment best practices
+📍 Bhubaneswar, India
+🌐 Portfolio → https://debasmit.com
 
 ---
 
-## Technical Focus
+## About Me
+
+I'm a Product Engineering Intern at VireonTech, working on cloud-connected IoT platforms, telemetry systems, and production-grade digital products.
+
+My work spans full-stack development, cloud infrastructure, database design, system architecture, and product development. I enjoy building solutions that connect devices, data, and people while focusing on scalability, maintainability, and real-world impact.
+
+Beyond engineering, I actively contribute to developer communities as President of Radiant Club and Team Lead of Cybernauts, where I organize technical events, workshops, hackathons, and community initiatives.
+
+---
+
+## Current Focus
+
+* Product Engineering
+* Full Stack Development
+* Cloud Computing
+* IoT & Telemetry Systems
+* System Design
+* Scalable Web Applications
+
+---
+
+## Tech Stack
 
 ### Frontend
-- Next.js (App Router), React, TypeScript  
-- Tailwind CSS, Framer Motion  
-- Three.js for interactive & 3D experiences  
+
+* Next.js
+* React
+* TypeScript
+* JavaScript
+* Tailwind CSS
+* Framer Motion
 
 ### Backend
-- Node.js  
-- Django & REST APIs  
-- Supabase (Auth, PostgreSQL, RLS)
 
-### Infrastructure
-- Vercel, Netlify  
-- Nginx  
-- CI basics & environment-based deployments  
+* Node.js
+* REST APIs
+* Firebase
+* Supabase
 
-### Data / AI (Active Learning)
-- Python  
-- Pandas  
-- PyTorch  
+### Cloud & Infrastructure
 
----
-
-## Selected Projects
-
-### Volunteer Ops Platform
-A full-stack platform for managing hackathon volunteers with authentication, admin workflows, and database policies.
-
-- Role-based access control  
-- Admin dashboard  
-- Production deployment  
-
-🔗 Live: https://hackfest-volunteers.vercel.app/
+* Google Cloud Platform (GCP)
+* Cloud Firestore
+* Docker
+* Nginx
+* Vercel
+* Netlify
 
 ---
+
+## Featured Work
+
+### Industrial Quality Control Platform
+
+Designed and delivered a production-ready quality control application focused on operational workflows, data management, and process efficiency.
+
+### IoT Energy Monitoring Platform
+
+Contributing to cloud-based telemetry systems involving smart energy meters, Raspberry Pi devices, real-time dashboards, telemetry pipelines, and cloud infrastructure.
+
+### Volunteer Operations Platform
+
+A full-stack platform for managing hackathon volunteers with authentication, role-based access control, administrative workflows, and production deployment.
+
+🔗 https://hackfest-volunteers.vercel.app/
 
 ### Suraksha Samriddhi
-A production website built for a real client, focused on performance, SEO, and clean UI.
 
-🔗 Live: https://surakshasamriddhi.in/
+Developed and deployed a production website with a strong focus on performance, accessibility, SEO, and user experience.
 
-More projects & case studies →  
-👉 https://debasmit.com/projects
+🔗 https://surakshasamriddhi.in/
+
+More Projects → https://debasmit.com/projects
 
 ---
 
-## Currently Exploring
-- System design fundamentals  
-- DevOps workflows  
-- Scaling Next.js applications  
-- AI-assisted web experiences  
+## Leadership & Community
+
+* President, Radiant Club
+* Team Lead, Cybernauts IT Club
+* GDG Bhubaneswar Volunteer
+* Community Builder & Event Organizer
+
+---
+
+## Currently Learning
+
+* System Design
+* Cloud Architecture
+* DevOps & Containerization
+* Distributed Systems
 
 ---
 
 ## Connect
-- LinkedIn → https://linkedin.com/in/debasmitsahoo  
-- GitHub → https://github.com/debasmitsahoo  
+
+🌐 Portfolio → https://debasmit.com
+
+💼 LinkedIn → https://linkedin.com/in/debasmitsahoo
+
+📧 Email → [work@debasmit.com](mailto:work@debasmit.com)
 
 ---
 
-> Building in public. Improving every iteration.
+> Building real products. Learning continuously. Shipping with purpose.
